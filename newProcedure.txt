@@ -1,5 +1,7 @@
 procedure myFavoriteFoods
-
+almonds
+	donuts
+	avocados
 end;
 
 procedure favoriteBooks
