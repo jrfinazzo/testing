@@ -1,3 +1,5 @@
 procedure myFavoriteFoods
-
+	almonds
+	donuts
+	avocados
 end;
